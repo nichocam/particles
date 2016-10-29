@@ -1,0 +1,1 @@
+This is a particle effect I made. I used an upwards force similar to gravity, and made the dark color proportional to height. The particles are given random lifespans so that some last longer.
